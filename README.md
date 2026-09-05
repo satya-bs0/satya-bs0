@@ -1,4 +1,4 @@
-# Hi, I'm Satya 👋
+# Hi, I'm Satya 
 
 **Senior AI Engineer building production-grade AI/ML systems and applications.**
 
@@ -16,7 +16,7 @@ My current focus is on:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **AI / ML**
 
@@ -41,13 +41,13 @@ My current focus is on:
 ---
 
 
-## 📚 Currently Exploring
+## Currently Exploring
 
 `LLM Inference` · `LLM Evaluation` · `AI Infrastructure` · `Distributed Systems` · `System Design`
 
 ---
 
-## 🧩 How I Think About AI Engineering
+## How I Think About AI Engineering
 
 I’m interested not only in building models, but in everything around them:
 
@@ -55,7 +55,7 @@ I’m interested not only in building models, but in everything around them:
 
 ---
 
-## 🌱 Learning in Public
+## Learning in Public
 
 I share practical lessons, technical breakdowns, things I'm building, and what I'm learning across **AI and software engineering**.
 
