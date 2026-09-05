@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Satya 👋
 
-<!--
-**satya-bs0/satya-bs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior AI Engineer building production-grade AI/ML systems and applications.**
 
-Here are some ideas to get you started:
+I work at the intersection of **AI/ML, backend engineering, APIs, and data** — building systems that take AI from prototype to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is on:
+
+* Generative AI & LLM applications
+* Agentic AI & multi-agent systems
+* RAG & AI system architecture
+* Backend engineering & REST APIs
+* AI/ML & data systems
+* Scalable and production-oriented AI applications
+* MLOps & LLMOps
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML**
+
+`Python` · `PyTorch` · `Scikit-learn` · `XGBoost`
+
+**GenAI / Agents**
+
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `FAISS` · `BM25`
+
+**Backend**
+
+`FastAPI` · `REST APIs` · `PostgreSQL` · `SQLAlchemy`
+
+**Data**
+
+`SQL` · `PySpark` · `Apache Spark` · `ETL`
+
+**Cloud & Engineering**
+
+`AWS` · `GCP` · `Docker` · `Git` · `CI/CD`
+
+---
+
+
+## 📚 Currently Exploring
+
+`LLM Inference` · `LLM Evaluation` · `AI Infrastructure` · `Distributed Systems` · `System Design`
+
+---
+
+## 🧩 How I Think About AI Engineering
+
+I’m interested not only in building models, but in everything around them:
+
+**Model → Retrieval → Reasoning → Tools → APIs → Infrastructure → Production**
+
+---
+
+## 🌱 Learning in Public
+
+I share practical lessons, technical breakdowns, things I'm building, and what I'm learning across **AI and software engineering**.
+
+> Building AI systems. Learning in public. Sharing the journey.
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/satya-sbs/)· [GitHub](https://github.com/satya-bs0)
