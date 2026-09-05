@@ -65,4 +65,4 @@ I share practical lessons, technical breakdowns, things I'm building, and what I
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/satya-sbs/)· [GitHub](https://github.com/satya-bs0)
+[LinkedIn](https://www.linkedin.com/in/satya-sbs/)· [GitHub](https://github.com/satya-bs0) .[X](https://x.com/satya_bs)
